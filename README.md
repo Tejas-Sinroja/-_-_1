@@ -1,2 +1,3 @@
-# oibsip_taskno_1
-This is the repository for iris flower classification using machine learning models
+# Iris  flower classification
+
+Here the task is to train a machine learning model that can learn from the measurements of the iris species and classify them.
